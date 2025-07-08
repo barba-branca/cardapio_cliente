@@ -1,0 +1,48 @@
+{
+    "item_name_block": {
+        "text": "PIZZAS",
+        "box": {
+            "x": 0.186,
+            "y": 0.237,
+            "w": 0.594,
+            "h": 0.341
+        },
+        "color_rgb": "#FFC0C0",
+        "font_name": "Arial"
+    },
+    "price_blocks": [
+        {
+            "text": "1.50",
+            "box": {
+                "x": 0.287,
+                "y": 0.698,
+                "w": 0.438,
+                "h": 0.833
+            },
+            "color_rgb": "#FFC0C0",
+            "font_name": "Arial"
+        },
+        {
+            "text": "1.50",
+            "box": {
+                "x": 0.287,
+                "y": 0.698,
+                "w": 0.438,
+                "h": 0.833
+            },
+            "color_rgb": "#FFC0C0",
+            "font_name": "Arial"
+        },
+        {
+            "text": "1.50",
+            "box": {
+                "x": 0.287,
+                "y": 0.698,
+                "w": 0.438,
+                "h": 0.833
+            },
+            "color_rgb": "#FFC0C0",
+            "font_name": "Arial"
+        }
+    ]
+}

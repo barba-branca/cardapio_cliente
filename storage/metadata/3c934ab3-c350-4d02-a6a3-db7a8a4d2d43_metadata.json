@@ -1,0 +1,2277 @@
+{
+    "analysis_mode": "tesseract",
+    "text_areas": [
+        {
+            "text": "DO",
+            "box": [
+                923,
+                168,
+                25,
+                47
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 47,
+            "color_rgb": [
+                176,
+                65,
+                73
+            ]
+        },
+        {
+            "text": "CARLINHOS",
+            "box": [
+                960,
+                172,
+                116,
+                27
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 27,
+            "color_rgb": [
+                170,
+                62,
+                80
+            ]
+        },
+        {
+            "text": "PIZZARIA",
+            "box": [
+                822,
+                179,
+                129,
+                32
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 32,
+            "color_rgb": [
+                172,
+                65,
+                78
+            ]
+        },
+        {
+            "text": "0,0",
+            "box": [
+                900,
+                212,
+                86,
+                32
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 32,
+            "color_rgb": [
+                180,
+                51,
+                51
+            ]
+        },
+        {
+            "text": "MÉDIA",
+            "box": [
+                1031,
+                354,
+                67,
+                18
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 18,
+            "color_rgb": [
+                69,
+                68,
+                69
+            ]
+        },
+        {
+            "text": "GRANDE",
+            "box": [
+                899,
+                358,
+                91,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                66,
+                66,
+                66
+            ]
+        },
+        {
+            "text": "CASA",
+            "box": [
+                554,
+                400,
+                71,
+                21
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 21,
+            "color_rgb": [
+                57,
+                57,
+                57
+            ]
+        },
+        {
+            "text": "À",
+            "box": [
+                367,
+                401,
+                16,
+                20
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 20,
+            "color_rgb": [
+                58,
+                58,
+                58
+            ]
+        },
+        {
+            "text": "MODA",
+            "box": [
+                400,
+                401,
+                83,
+                20
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 20,
+            "color_rgb": [
+                52,
+                52,
+                52
+            ]
+        },
+        {
+            "text": "DA",
+            "box": [
+                500,
+                401,
+                37,
+                20
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 20,
+            "color_rgb": [
+                56,
+                56,
+                56
+            ]
+        },
+        {
+            "text": "Molho,",
+            "box": [
+                367,
+                432,
+                60,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                97,
+                96,
+                97
+            ]
+        },
+        {
+            "text": "ervilha,",
+            "box": [
+                534,
+                432,
+                66,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                113,
+                113,
+                113
+            ]
+        },
+        {
+            "text": "palmito,",
+            "box": [
+                664,
+                432,
+                73,
+                18
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 18,
+            "color_rgb": [
+                106,
+                106,
+                106
+            ]
+        },
+        {
+            "text": "ovos,",
+            "box": [
+                608,
+                436,
+                47,
+                10
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 10,
+            "color_rgb": [
+                111,
+                111,
+                111
+            ]
+        },
+        {
+            "text": "cebola,",
+            "box": [
+                538,
+                457,
+                66,
+                15
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 15,
+            "color_rgb": [
+                113,
+                113,
+                113
+            ]
+        },
+        {
+            "text": "bacon",
+            "box": [
+                613,
+                457,
+                55,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                111,
+                111,
+                111
+            ]
+        },
+        {
+            "text": "azeitonas.",
+            "box": [
+                693,
+                457,
+                88,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                115,
+                115,
+                115
+            ]
+        },
+        {
+            "text": "presunto,",
+            "box": [
+                367,
+                458,
+                85,
+                17
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 17,
+            "color_rgb": [
+                108,
+                108,
+                108
+            ]
+        },
+        {
+            "text": "tomate,",
+            "box": [
+                461,
+                458,
+                68,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                113,
+                113,
+                113
+            ]
+        },
+        {
+            "text": "e",
+            "box": [
+                676,
+                461,
+                10,
+                10
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 10,
+            "color_rgb": [
+                124,
+                124,
+                124
+            ]
+        },
+        {
+            "text": "ÓLEO",
+            "box": [
+                488,
+                493,
+                77,
+                26
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 26,
+            "color_rgb": [
+                57,
+                57,
+                57
+            ]
+        },
+        {
+            "text": "ALHO",
+            "box": [
+                367,
+                498,
+                74,
+                21
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 21,
+            "color_rgb": [
+                52,
+                52,
+                52
+            ]
+        },
+        {
+            "text": "E",
+            "box": [
+                457,
+                498,
+                15,
+                21
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 21,
+            "color_rgb": [
+                43,
+                43,
+                43
+            ]
+        },
+        {
+            "text": "R$48",
+            "box": [
+                897,
+                502,
+                79,
+                23
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 23,
+            "color_rgb": [
+                59,
+                59,
+                59
+            ]
+        },
+        {
+            "text": "R$38",
+            "box": [
+                1019,
+                502,
+                79,
+                23
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 23,
+            "color_rgb": [
+                53,
+                53,
+                53
+            ]
+        },
+        {
+            "text": "azeitonas.",
+            "box": [
+                661,
+                530,
+                92,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                108,
+                108,
+                108
+            ]
+        },
+        {
+            "text": "Molho,",
+            "box": [
+                366,
+                531,
+                56,
+                13
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 13,
+            "color_rgb": [
+                100,
+                100,
+                100
+            ]
+        },
+        {
+            "text": "muçarela,",
+            "box": [
+                435,
+                531,
+                90,
+                16
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 16,
+            "color_rgb": [
+                100,
+                100,
+                100
+            ]
+        },
+        {
+            "text": "alho",
+            "box": [
+                533,
+                531,
+                39,
+                13
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 13,
+            "color_rgb": [
+                103,
+                103,
+                103
+            ]
+        },
+        {
+            "text": "óleo",
+            "box": [
+                597,
+                531,
+                39,
+                13
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 13,
+            "color_rgb": [
+                100,
+                100,
+                100
+            ]
+        },
+        {
+            "text": "e",
+            "box": [
+                580,
+                534,
+                9,
+                10
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 10,
+            "color_rgb": [
+                108,
+                108,
+                108
+            ]
+        },
+        {
+            "text": "e",
+            "box": [
+                644,
+                534,
+                10,
+                10
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 10,
+            "color_rgb": [
+                103,
+                103,
+                103
+            ]
+        },
+        {
+            "text": "Molho,",
+            "box": [
+                366,
+                604,
+                56,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                104,
+                104,
+                104
+            ]
+        },
+        {
+            "text": "muçarela,",
+            "box": [
+                436,
+                604,
+                89,
+                17
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 17,
+            "color_rgb": [
+                106,
+                106,
+                106
+            ]
+        },
+        {
+            "text": "cebola",
+            "box": [
+                669,
+                604,
+                62,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                104,
+                104,
+                104
+            ]
+        },
+        {
+            "text": "azeitonas",
+            "box": [
+                756,
+                604,
+                87,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                106,
+                106,
+                106
+            ]
+        },
+        {
+            "text": "atum,",
+            "box": [
+                533,
+                605,
+                50,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                102,
+                102,
+                102
+            ]
+        },
+        {
+            "text": "tomate,",
+            "box": [
+                592,
+                605,
+                69,
+                13
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 13,
+            "color_rgb": [
+                102,
+                102,
+                102
+            ]
+        },
+        {
+            "text": "e",
+            "box": [
+                739,
+                608,
+                10,
+                10
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 10,
+            "color_rgb": [
+                118,
+                118,
+                118
+            ]
+        },
+        {
+            "text": "Molho,",
+            "box": [
+                366,
+                678,
+                60,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                104,
+                104,
+                104
+            ]
+        },
+        {
+            "text": "muçarela,",
+            "box": [
+                435,
+                678,
+                90,
+                16
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 16,
+            "color_rgb": [
+                111,
+                111,
+                111
+            ]
+        },
+        {
+            "text": "bacon,",
+            "box": [
+                534,
+                678,
+                60,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                105,
+                105,
+                105
+            ]
+        },
+        {
+            "text": "tomate,",
+            "box": [
+                603,
+                678,
+                68,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                99,
+                99,
+                99
+            ]
+        },
+        {
+            "text": "cebola",
+            "box": [
+                680,
+                678,
+                61,
+                13
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 13,
+            "color_rgb": [
+                101,
+                101,
+                101
+            ]
+        },
+        {
+            "text": "azeitonas",
+            "box": [
+                766,
+                679,
+                87,
+                12
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 12,
+            "color_rgb": [
+                109,
+                109,
+                109
+            ]
+        },
+        {
+            "text": "e",
+            "box": [
+                749,
+                681,
+                10,
+                10
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 10,
+            "color_rgb": [
+                113,
+                113,
+                113
+            ]
+        },
+        {
+            "text": "BRÓCOLIS",
+            "box": [
+                366,
+                714,
+                144,
+                25
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 25,
+            "color_rgb": [
+                56,
+                56,
+                56
+            ]
+        },
+        {
+            "text": "R$",
+            "box": [
+                896,
+                723,
+                36,
+                22
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 22,
+            "color_rgb": [
+                50,
+                50,
+                50
+            ]
+        },
+        {
+            "text": "R$",
+            "box": [
+                1019,
+                723,
+                35,
+                22
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 22,
+            "color_rgb": [
+                50,
+                50,
+                50
+            ]
+        },
+        {
+            "text": "62",
+            "box": [
+                945,
+                724,
+                31,
+                20
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 20,
+            "color_rgb": [
+                53,
+                53,
+                53
+            ]
+        },
+        {
+            "text": "49",
+            "box": [
+                1066,
+                724,
+                31,
+                20
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 20,
+            "color_rgb": [
+                54,
+                54,
+                54
+            ]
+        },
+        {
+            "text": "Molho,",
+            "box": [
+                366,
+                752,
+                60,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                101,
+                101,
+                101
+            ]
+        },
+        {
+            "text": "muçarela,",
+            "box": [
+                435,
+                752,
+                90,
+                16
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 16,
+            "color_rgb": [
+                105,
+                105,
+                105
+            ]
+        },
+        {
+            "text": "brócolis,",
+            "box": [
+                534,
+                752,
+                77,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                104,
+                104,
+                104
+            ]
+        },
+        {
+            "text": "catupiry,",
+            "box": [
+                620,
+                752,
+                79,
+                17
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 17,
+            "color_rgb": [
+                106,
+                106,
+                106
+            ]
+        },
+        {
+            "text": "bacon",
+            "box": [
+                708,
+                752,
+                54,
+                13
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 13,
+            "color_rgb": [
+                101,
+                101,
+                101
+            ]
+        },
+        {
+            "text": "azeitonas.",
+            "box": [
+                788,
+                752,
+                91,
+                13
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 13,
+            "color_rgb": [
+                105,
+                105,
+                105
+            ]
+        },
+        {
+            "text": "e",
+            "box": [
+                771,
+                755,
+                9,
+                10
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 10,
+            "color_rgb": [
+                103,
+                103,
+                103
+            ]
+        },
+        {
+            "text": "CAIPIRA",
+            "box": [
+                368,
+                793,
+                109,
+                20
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 20,
+            "color_rgb": [
+                53,
+                53,
+                53
+            ]
+        },
+        {
+            "text": "Molho,",
+            "box": [
+                368,
+                825,
+                59,
+                15
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 15,
+            "color_rgb": [
+                106,
+                106,
+                106
+            ]
+        },
+        {
+            "text": "muçarela,",
+            "box": [
+                437,
+                825,
+                89,
+                17
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 17,
+            "color_rgb": [
+                114,
+                114,
+                114
+            ]
+        },
+        {
+            "text": "frango,",
+            "box": [
+                535,
+                825,
+                63,
+                18
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 18,
+            "color_rgb": [
+                111,
+                111,
+                111
+            ]
+        },
+        {
+            "text": "milho",
+            "box": [
+                607,
+                825,
+                50,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                106,
+                106,
+                106
+            ]
+        },
+        {
+            "text": "azeitonas.",
+            "box": [
+                682,
+                825,
+                87,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                116,
+                116,
+                116
+            ]
+        },
+        {
+            "text": "e",
+            "box": [
+                665,
+                829,
+                9,
+                10
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 10,
+            "color_rgb": [
+                114,
+                114,
+                114
+            ]
+        },
+        {
+            "text": "CALABRESA:",
+            "box": [
+                368,
+                866,
+                162,
+                21
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 21,
+            "color_rgb": [
+                44,
+                44,
+                44
+            ]
+        },
+        {
+            "text": "calabresa,",
+            "box": [
+                436,
+                898,
+                94,
+                15
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 15,
+            "color_rgb": [
+                98,
+                98,
+                98
+            ]
+        },
+        {
+            "text": "cebola",
+            "box": [
+                616,
+                898,
+                61,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                93,
+                93,
+                93
+            ]
+        },
+        {
+            "text": "Molho,",
+            "box": [
+                368,
+                899,
+                60,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                95,
+                95,
+                95
+            ]
+        },
+        {
+            "text": "tomate,",
+            "box": [
+                538,
+                899,
+                69,
+                13
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 13,
+            "color_rgb": [
+                98,
+                98,
+                98
+            ]
+        },
+        {
+            "text": "azeitonas.",
+            "box": [
+                702,
+                899,
+                88,
+                13
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 13,
+            "color_rgb": [
+                106,
+                106,
+                106
+            ]
+        },
+        {
+            "text": "e",
+            "box": [
+                685,
+                902,
+                10,
+                10
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 10,
+            "color_rgb": [
+                114,
+                114,
+                114
+            ]
+        },
+        {
+            "text": "CALABRESA",
+            "box": [
+                368,
+                939,
+                162,
+                21
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 21,
+            "color_rgb": [
+                45,
+                45,
+                45
+            ]
+        },
+        {
+            "text": "COM",
+            "box": [
+                546,
+                940,
+                63,
+                20
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 20,
+            "color_rgb": [
+                46,
+                46,
+                46
+            ]
+        },
+        {
+            "text": "CATUPIRY",
+            "box": [
+                625,
+                940,
+                139,
+                20
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 20,
+            "color_rgb": [
+                49,
+                49,
+                49
+            ]
+        },
+        {
+            "text": "...........",
+            "box": [
+                779,
+                954,
+                105,
+                3
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 3,
+            "color_rgb": [
+                75,
+                75,
+                75
+            ]
+        },
+        {
+            "text": "Molho,",
+            "box": [
+                368,
+                972,
+                60,
+                15
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 15,
+            "color_rgb": [
+                101,
+                101,
+                101
+            ]
+        },
+        {
+            "text": "muçarela,",
+            "box": [
+                437,
+                972,
+                89,
+                17
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 17,
+            "color_rgb": [
+                108,
+                108,
+                108
+            ]
+        },
+        {
+            "text": "calabresa,",
+            "box": [
+                535,
+                972,
+                93,
+                15
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 15,
+            "color_rgb": [
+                107,
+                107,
+                107
+            ]
+        },
+        {
+            "text": "catupiry,",
+            "box": [
+                637,
+                972,
+                78,
+                18
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 18,
+            "color_rgb": [
+                102,
+                102,
+                102
+            ]
+        },
+        {
+            "text": "tomate,",
+            "box": [
+                724,
+                973,
+                69,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                106,
+                106,
+                106
+            ]
+        },
+        {
+            "text": "cebola",
+            "box": [
+                367,
+                997,
+                61,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                108,
+                108,
+                108
+            ]
+        },
+        {
+            "text": "azeitonas.",
+            "box": [
+                454,
+                997,
+                87,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                113,
+                113,
+                113
+            ]
+        },
+        {
+            "text": "e",
+            "box": [
+                437,
+                1001,
+                9,
+                10
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 10,
+            "color_rgb": [
+                114,
+                114,
+                114
+            ]
+        },
+        {
+            "text": "CALABRESA",
+            "box": [
+                366,
+                1038,
+                162,
+                21
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 21,
+            "color_rgb": [
+                45,
+                45,
+                45
+            ]
+        },
+        {
+            "text": "COM",
+            "box": [
+                545,
+                1038,
+                63,
+                21
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 21,
+            "color_rgb": [
+                52,
+                52,
+                52
+            ]
+        },
+        {
+            "text": "QUEIJO",
+            "box": [
+                624,
+                1038,
+                107,
+                21
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 21,
+            "color_rgb": [
+                51,
+                51,
+                51
+            ]
+        },
+        {
+            "text": "..............",
+            "box": [
+                747,
+                1052,
+                136,
+                4
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 4,
+            "color_rgb": [
+                81,
+                81,
+                81
+            ]
+        },
+        {
+            "text": "Molho,",
+            "box": [
+                366,
+                1071,
+                61,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                105,
+                104,
+                104
+            ]
+        },
+        {
+            "text": "muçarela,",
+            "box": [
+                435,
+                1071,
+                90,
+                16
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 16,
+            "color_rgb": [
+                109,
+                109,
+                109
+            ]
+        },
+        {
+            "text": "calabresa,",
+            "box": [
+                533,
+                1071,
+                94,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                114,
+                114,
+                114
+            ]
+        },
+        {
+            "text": "tomate,",
+            "box": [
+                636,
+                1071,
+                68,
+                15
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 15,
+            "color_rgb": [
+                106,
+                106,
+                106
+            ]
+        },
+        {
+            "text": "cebola",
+            "box": [
+                713,
+                1071,
+                61,
+                13
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 13,
+            "color_rgb": [
+                108,
+                108,
+                108
+            ]
+        },
+        {
+            "text": "e",
+            "box": [
+                782,
+                1074,
+                10,
+                10
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 10,
+            "color_rgb": [
+                105,
+                105,
+                105
+            ]
+        },
+        {
+            "text": "azeitonas.",
+            "box": [
+                366,
+                1095,
+                91,
+                13
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 13,
+            "color_rgb": [
+                105,
+                104,
+                104
+            ]
+        },
+        {
+            "text": "SECA",
+            "box": [
+                475,
+                1136,
+                69,
+                21
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 21,
+            "color_rgb": [
+                50,
+                50,
+                50
+            ]
+        },
+        {
+            "text": "CARNE",
+            "box": [
+                366,
+                1137,
+                93,
+                20
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 20,
+            "color_rgb": [
+                45,
+                45,
+                45
+            ]
+        },
+        {
+            "text": "Molho,",
+            "box": [
+                366,
+                1168,
+                56,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                107,
+                107,
+                107
+            ]
+        },
+        {
+            "text": "muçarela,",
+            "box": [
+                435,
+                1168,
+                90,
+                17
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 17,
+            "color_rgb": [
+                113,
+                113,
+                113
+            ]
+        },
+        {
+            "text": "cebola",
+            "box": [
+                724,
+                1168,
+                61,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                106,
+                106,
+                106
+            ]
+        },
+        {
+            "text": "tomate,",
+            "box": [
+                646,
+                1169,
+                69,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                107,
+                107,
+                107
+            ]
+        },
+        {
+            "text": "carne",
+            "box": [
+                533,
+                1172,
+                51,
+                10
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 10,
+            "color_rgb": [
+                111,
+                111,
+                111
+            ]
+        },
+        {
+            "text": "seca,",
+            "box": [
+                592,
+                1172,
+                46,
+                10
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 10,
+            "color_rgb": [
+                115,
+                115,
+                115
+            ]
+        },
+        {
+            "text": "e",
+            "box": [
+                793,
+                1172,
+                10,
+                10
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 10,
+            "color_rgb": [
+                113,
+                113,
+                113
+            ]
+        },
+        {
+            "text": "azeitonas",
+            "box": [
+                366,
+                1193,
+                87,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                112,
+                112,
+                112
+            ]
+        },
+        {
+            "text": "CARNE",
+            "box": [
+                368,
+                1234,
+                92,
+                21
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 21,
+            "color_rgb": [
+                45,
+                45,
+                45
+            ]
+        },
+        {
+            "text": "SECA",
+            "box": [
+                476,
+                1234,
+                69,
+                21
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 21,
+            "color_rgb": [
+                54,
+                54,
+                54
+            ]
+        },
+        {
+            "text": "COM",
+            "box": [
+                562,
+                1234,
+                62,
+                21
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 21,
+            "color_rgb": [
+                52,
+                52,
+                52
+            ]
+        },
+        {
+            "text": "CATUPIRY",
+            "box": [
+                641,
+                1234,
+                139,
+                21
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 21,
+            "color_rgb": [
+                49,
+                49,
+                49
+            ]
+        },
+        {
+            "text": "..........",
+            "box": [
+                789,
+                1248,
+                95,
+                4
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 4,
+            "color_rgb": [
+                72,
+                72,
+                72
+            ]
+        },
+        {
+            "text": "Molho,",
+            "box": [
+                368,
+                1267,
+                60,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                98,
+                98,
+                98
+            ]
+        },
+        {
+            "text": "muçarela,",
+            "box": [
+                437,
+                1267,
+                89,
+                16
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 16,
+            "color_rgb": [
+                103,
+                103,
+                103
+            ]
+        },
+        {
+            "text": "catupiry,",
+            "box": [
+                648,
+                1267,
+                78,
+                17
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 17,
+            "color_rgb": [
+                105,
+                105,
+                105
+            ]
+        },
+        {
+            "text": "tomate,",
+            "box": [
+                735,
+                1267,
+                69,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                98,
+                98,
+                98
+            ]
+        },
+        {
+            "text": "carne",
+            "box": [
+                535,
+                1270,
+                50,
+                10
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 10,
+            "color_rgb": [
+                100,
+                100,
+                100
+            ]
+        },
+        {
+            "text": "seca,",
+            "box": [
+                593,
+                1270,
+                46,
+                10
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 10,
+            "color_rgb": [
+                106,
+                106,
+                106
+            ]
+        },
+        {
+            "text": "||",
+            "box": [
+                339,
+                1284,
+                3,
+                4
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 4,
+            "color_rgb": [
+                151,
+                125,
+                69
+            ]
+        },
+        {
+            "text": "cebola",
+            "box": [
+                367,
+                1291,
+                61,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                95,
+                95,
+                95
+            ]
+        },
+        {
+            "text": "azeitonas.",
+            "box": [
+                454,
+                1291,
+                87,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                95,
+                95,
+                95
+            ]
+        },
+        {
+            "text": "e",
+            "box": [
+                437,
+                1295,
+                9,
+                10
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 10,
+            "color_rgb": [
+                102,
+                102,
+                102
+            ]
+        },
+        {
+            "text": "CATUPIRY",
+            "box": [
+                369,
+                1333,
+                139,
+                20
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 20,
+            "color_rgb": [
+                52,
+                52,
+                52
+            ]
+        },
+        {
+            "text": "Molho.",
+            "box": [
+                369,
+                1365,
+                60,
+                15
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 15,
+            "color_rgb": [
+                108,
+                108,
+                108
+            ]
+        },
+        {
+            "text": "muçarela,",
+            "box": [
+                438,
+                1365,
+                90,
+                17
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 17,
+            "color_rgb": [
+                114,
+                114,
+                114
+            ]
+        },
+        {
+            "text": "catupiry",
+            "box": [
+                537,
+                1365,
+                74,
+                18
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 18,
+            "color_rgb": [
+                110,
+                110,
+                110
+            ]
+        },
+        {
+            "text": "azeitonas.",
+            "box": [
+                636,
+                1365,
+                87,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                117,
+                117,
+                117
+            ]
+        },
+        {
+            "text": "e",
+            "box": [
+                619,
+                1369,
+                10,
+                10
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 10,
+            "color_rgb": [
+                114,
+                114,
+                114
+            ]
+        },
+        {
+            "text": "Molho,",
+            "box": [
+                369,
+                1439,
+                61,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                102,
+                102,
+                102
+            ]
+        },
+        {
+            "text": "muçarela,",
+            "box": [
+                438,
+                1439,
+                90,
+                16
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 16,
+            "color_rgb": [
+                111,
+                111,
+                111
+            ]
+        },
+        {
+            "text": "catupiry",
+            "box": [
+                663,
+                1439,
+                75,
+                17
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 17,
+            "color_rgb": [
+                108,
+                108,
+                108
+            ]
+        },
+        {
+            "text": "azeitonas.",
+            "box": [
+                763,
+                1439,
+                87,
+                13
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 13,
+            "color_rgb": [
+                109,
+                109,
+                109
+            ]
+        },
+        {
+            "text": "e",
+            "box": [
+                745,
+                1442,
+                10,
+                10
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 10,
+            "color_rgb": [
+                116,
+                116,
+                116
+            ]
+        },
+        {
+            "text": "CREMOSA.",
+            "box": [
+                368,
+                1480,
+                134,
+                20
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 20,
+            "color_rgb": [
+                50,
+                50,
+                50
+            ]
+        },
+        {
+            "text": "Molho,",
+            "box": [
+                368,
+                1512,
+                59,
+                15
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 15,
+            "color_rgb": [
+                105,
+                105,
+                105
+            ]
+        },
+        {
+            "text": "muçarela,",
+            "box": [
+                437,
+                1512,
+                89,
+                17
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 17,
+            "color_rgb": [
+                113,
+                113,
+                113
+            ]
+        },
+        {
+            "text": "frango,",
+            "box": [
+                534,
+                1512,
+                64,
+                18
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 18,
+            "color_rgb": [
+                107,
+                107,
+                107
+            ]
+        },
+        {
+            "text": "de",
+            "box": [
+                672,
+                1512,
+                22,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                120,
+                120,
+                120
+            ]
+        },
+        {
+            "text": "leite,",
+            "box": [
+                702,
+                1512,
+                44,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                116,
+                116,
+                116
+            ]
+        },
+        {
+            "text": "milho",
+            "box": [
+                755,
+                1512,
+                49,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                89,
+                89,
+                89
+            ]
+        },
+        {
+            "text": "creme",
+            "box": [
+                607,
+                1516,
+                57,
+                10
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 10,
+            "color_rgb": [
+                111,
+                111,
+                111
+            ]
+        },
+        {
+            "text": "e",
+            "box": [
+                812,
+                1516,
+                10,
+                10
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 10,
+            "color_rgb": [
+                126,
+                126,
+                126
+            ]
+        },
+        {
+            "text": "(12)3637-3282",
+            "box": [
+                150,
+                1535,
+                130,
+                20
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 20,
+            "color_rgb": [
+                114,
+                86,
+                22
+            ]
+        },
+        {
+            "text": "azeitonas",
+            "box": [
+                367,
+                1536,
+                87,
+                14
+            ],
+            "font_file": "ARIAL.TTF",
+            "font_size": 14,
+            "color_rgb": [
+                111,
+                111,
+                111
+            ]
+        }
+    ]
+}

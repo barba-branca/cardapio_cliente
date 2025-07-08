@@ -1,0 +1,56 @@
+[
+    {
+        "item_name_block": {
+            "text": "PIZZA SIMULADA 1",
+            "box": [
+                120,
+                280,
+                200,
+                30
+            ],
+            "color_rgb": [
+                200,
+                50,
+                50
+            ],
+            "font_name": "Arial Bold"
+        },
+        "price_blocks": [
+            {
+                "box": [
+                    700,
+                    280,
+                    80,
+                    30
+                ]
+            }
+        ]
+    },
+    {
+        "item_name_block": {
+            "text": "PIZZA SIMULADA 2",
+            "box": [
+                120,
+                380,
+                200,
+                30
+            ],
+            "color_rgb": [
+                200,
+                50,
+                50
+            ],
+            "font_name": "Arial Bold"
+        },
+        "price_blocks": [
+            {
+                "box": [
+                    700,
+                    380,
+                    80,
+                    30
+                ]
+            }
+        ]
+    }
+]

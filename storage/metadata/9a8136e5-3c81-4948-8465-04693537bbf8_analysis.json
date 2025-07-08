@@ -1,0 +1,3131 @@
+[
+    {
+        "text": "DELIVERY",
+        "box_pixels": [
+            146,
+            1504,
+            120,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "(12)3637-3282",
+        "box_pixels": [
+            150,
+            1535,
+            130,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "PIZZARIA",
+        "box_pixels": [
+            822,
+            179,
+            88,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": "#0000",
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "DO",
+        "box_pixels": [
+            924,
+            164,
+            22,
+            51
+        ],
+        "font_size": 51,
+        "font_name_suggestion": "Arial",
+        "color_rgb": "#0000",
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "CARUNHOS",
+        "box_pixels": [
+            960,
+            168,
+            116,
+            31
+        ],
+        "font_size": 31,
+        "font_name_suggestion": "Arial",
+        "color_rgb": "#0000",
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "PIZZAS",
+        "box_pixels": [
+            367,
+            281,
+            265,
+            59
+        ],
+        "font_size": 59,
+        "font_name_suggestion": "Arial",
+        "color_rgb": "#0000",
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "À",
+        "box_pixels": [
+            367,
+            396,
+            16,
+            25
+        ],
+        "font_size": 25,
+        "font_name_suggestion": "Arial",
+        "color_rgb": "#0000",
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "MODA:",
+        "box_pixels": [
+            400,
+            401,
+            83,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": "#0000",
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "DA:",
+        "box_pixels": [
+            500,
+            401,
+            37,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": "#0000",
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "CASA:",
+        "box_pixels": [
+            554,
+            400,
+            71,
+            21
+        ],
+        "font_size": 21,
+        "font_name_suggestion": "Arial",
+        "color_rgb": "#0000",
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "R$",
+        "box_pixels": [
+            897,
+            405,
+            35,
+            22
+        ],
+        "font_size": 22,
+        "font_name_suggestion": "Arial",
+        "color_rgb": "#0000",
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "64",
+        "box_pixels": [
+            946,
+            405,
+            30,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": "#0000",
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "Molho,",
+        "box_pixels": [
+            367,
+            432,
+            60,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": "#0000",
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "ervilha,",
+        "box_pixels": [
+            534,
+            432,
+            66,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": "#0000",
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "ovos,",
+        "box_pixels": [
+            608,
+            436,
+            47,
+            10
+        ],
+        "font_size": 10,
+        "font_name_suggestion": "Arial",
+        "color_rgb": "#0000",
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "palmito,",
+        "box_pixels": [
+            664,
+            432,
+            73,
+            18
+        ],
+        "font_size": 18,
+        "font_name_suggestion": "Arial",
+        "color_rgb": "#0000",
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "presunto,",
+        "box_pixels": [
+            367,
+            458,
+            85,
+            17
+        ],
+        "font_size": 17,
+        "font_name_suggestion": "Arial",
+        "color_rgb": "#0000",
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "tomate,",
+        "box_pixels": [
+            461,
+            458,
+            68,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": "#0000",
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "cebola,",
+        "box_pixels": [
+            538,
+            457,
+            66,
+            15
+        ],
+        "font_size": 15,
+        "font_name_suggestion": "Arial",
+        "color_rgb": "#0000",
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "bacon",
+        "box_pixels": [
+            613,
+            457,
+            55,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": "#0000",
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "e",
+        "box_pixels": [
+            676,
+            461,
+            10,
+            10
+        ],
+        "font_size": 10,
+        "font_name_suggestion": "Arial",
+        "color_rgb": "#0000",
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "azeitonas.",
+        "box_pixels": [
+            693,
+            457,
+            88,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": "#0000",
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "ALHO",
+        "box_pixels": [
+            367,
+            498,
+            74,
+            21
+        ],
+        "font_size": 21,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "E",
+        "box_pixels": [
+            457,
+            498,
+            15,
+            21
+        ],
+        "font_size": 21,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "ÓLEO",
+        "box_pixels": [
+            488,
+            493,
+            77,
+            26
+        ],
+        "font_size": 26,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "R$",
+        "box_pixels": [
+            897,
+            502,
+            35,
+            23
+        ],
+        "font_size": 23,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "48",
+        "box_pixels": [
+            944,
+            503,
+            32,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "Molho,",
+        "box_pixels": [
+            366,
+            531,
+            56,
+            13
+        ],
+        "font_size": 13,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "muçarela,",
+        "box_pixels": [
+            435,
+            531,
+            90,
+            16
+        ],
+        "font_size": 16,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "alho",
+        "box_pixels": [
+            533,
+            531,
+            39,
+            13
+        ],
+        "font_size": 13,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "e",
+        "box_pixels": [
+            580,
+            534,
+            9,
+            10
+        ],
+        "font_size": 10,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "óleo",
+        "box_pixels": [
+            597,
+            531,
+            39,
+            13
+        ],
+        "font_size": 13,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "e",
+        "box_pixels": [
+            644,
+            534,
+            10,
+            10
+        ],
+        "font_size": 10,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "azeitonas.",
+        "box_pixels": [
+            661,
+            530,
+            92,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "ATUM",
+        "box_pixels": [
+            366,
+            572,
+            78,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "R$",
+        "box_pixels": [
+            897,
+            576,
+            35,
+            22
+        ],
+        "font_size": 22,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "58",
+        "box_pixels": [
+            945,
+            577,
+            31,
+            19
+        ],
+        "font_size": 19,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "Molho,",
+        "box_pixels": [
+            366,
+            604,
+            56,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "muçarela,",
+        "box_pixels": [
+            436,
+            604,
+            89,
+            17
+        ],
+        "font_size": 17,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "atum,",
+        "box_pixels": [
+            533,
+            605,
+            50,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "tomate,",
+        "box_pixels": [
+            592,
+            605,
+            69,
+            13
+        ],
+        "font_size": 13,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "cebola",
+        "box_pixels": [
+            669,
+            604,
+            62,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "e",
+        "box_pixels": [
+            739,
+            608,
+            10,
+            10
+        ],
+        "font_size": 10,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "azeitonas",
+        "box_pixels": [
+            756,
+            604,
+            87,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "BACON",
+        "box_pixels": [
+            366,
+            645,
+            99,
+            21
+        ],
+        "font_size": 21,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "R$",
+        "box_pixels": [
+            897,
+            649,
+            35,
+            23
+        ],
+        "font_size": 23,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "48",
+        "box_pixels": [
+            944,
+            650,
+            32,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "Molho,",
+        "box_pixels": [
+            366,
+            678,
+            60,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "muçarela,",
+        "box_pixels": [
+            435,
+            678,
+            90,
+            16
+        ],
+        "font_size": 16,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "bacon,",
+        "box_pixels": [
+            534,
+            678,
+            60,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "tomate,",
+        "box_pixels": [
+            603,
+            678,
+            68,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "cebola",
+        "box_pixels": [
+            680,
+            678,
+            61,
+            13
+        ],
+        "font_size": 13,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "e",
+        "box_pixels": [
+            749,
+            681,
+            10,
+            10
+        ],
+        "font_size": 10,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "azeitonas",
+        "box_pixels": [
+            766,
+            679,
+            87,
+            12
+        ],
+        "font_size": 12,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "BRÓCOLIS",
+        "box_pixels": [
+            366,
+            714,
+            144,
+            25
+        ],
+        "font_size": 25,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "R$",
+        "box_pixels": [
+            896,
+            723,
+            36,
+            22
+        ],
+        "font_size": 22,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "62",
+        "box_pixels": [
+            945,
+            724,
+            31,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "Molho,",
+        "box_pixels": [
+            366,
+            752,
+            60,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "muçarela,",
+        "box_pixels": [
+            435,
+            752,
+            90,
+            16
+        ],
+        "font_size": 16,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "brócolis,",
+        "box_pixels": [
+            534,
+            752,
+            77,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "catupiry,",
+        "box_pixels": [
+            620,
+            752,
+            79,
+            17
+        ],
+        "font_size": 17,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "bacon",
+        "box_pixels": [
+            708,
+            752,
+            54,
+            13
+        ],
+        "font_size": 13,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "e",
+        "box_pixels": [
+            771,
+            755,
+            9,
+            10
+        ],
+        "font_size": 10,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "azeitonas.",
+        "box_pixels": [
+            788,
+            752,
+            91,
+            13
+        ],
+        "font_size": 13,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "R$",
+        "box_pixels": [
+            898,
+            797,
+            35,
+            22
+        ],
+        "font_size": 22,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "53",
+        "box_pixels": [
+            946,
+            797,
+            31,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "Molho,",
+        "box_pixels": [
+            368,
+            825,
+            59,
+            15
+        ],
+        "font_size": 15,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "muçarela,",
+        "box_pixels": [
+            437,
+            825,
+            89,
+            17
+        ],
+        "font_size": 17,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "frango,",
+        "box_pixels": [
+            535,
+            825,
+            63,
+            18
+        ],
+        "font_size": 18,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "milho",
+        "box_pixels": [
+            607,
+            825,
+            50,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "e",
+        "box_pixels": [
+            665,
+            829,
+            9,
+            10
+        ],
+        "font_size": 10,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "azeitonas",
+        "box_pixels": [
+            682,
+            825,
+            87,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "CALABRESA",
+        "box_pixels": [
+            368,
+            866,
+            162,
+            21
+        ],
+        "font_size": 21,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "R$",
+        "box_pixels": [
+            898,
+            870,
+            35,
+            23
+        ],
+        "font_size": 23,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "43",
+        "box_pixels": [
+            945,
+            871,
+            32,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "Molho,",
+        "box_pixels": [
+            368,
+            899,
+            60,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "calabresa,",
+        "box_pixels": [
+            436,
+            898,
+            94,
+            15
+        ],
+        "font_size": 15,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "tomate,",
+        "box_pixels": [
+            538,
+            899,
+            69,
+            13
+        ],
+        "font_size": 13,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "cebola",
+        "box_pixels": [
+            616,
+            898,
+            61,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "e",
+        "box_pixels": [
+            685,
+            902,
+            10,
+            10
+        ],
+        "font_size": 10,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "azeitonas.",
+        "box_pixels": [
+            702,
+            899,
+            88,
+            13
+        ],
+        "font_size": 13,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "CALABRESA",
+        "box_pixels": [
+            368,
+            939,
+            162,
+            21
+        ],
+        "font_size": 21,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "COM",
+        "box_pixels": [
+            546,
+            940,
+            63,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "CATUPIRY",
+        "box_pixels": [
+            625,
+            940,
+            139,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "...........",
+        "box_pixels": [
+            779,
+            954,
+            105,
+            3
+        ],
+        "font_size": 3,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "R$",
+        "box_pixels": [
+            898,
+            944,
+            35,
+            22
+        ],
+        "font_size": 22,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "58",
+        "box_pixels": [
+            946,
+            945,
+            31,
+            19
+        ],
+        "font_size": 19,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "Molho,",
+        "box_pixels": [
+            368,
+            972,
+            60,
+            15
+        ],
+        "font_size": 15,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "muçarela,",
+        "box_pixels": [
+            437,
+            972,
+            89,
+            17
+        ],
+        "font_size": 17,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "calabresa,",
+        "box_pixels": [
+            535,
+            972,
+            93,
+            15
+        ],
+        "font_size": 15,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "catupiry,",
+        "box_pixels": [
+            637,
+            972,
+            78,
+            18
+        ],
+        "font_size": 18,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "tomate,",
+        "box_pixels": [
+            724,
+            973,
+            69,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "cebola",
+        "box_pixels": [
+            367,
+            997,
+            61,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "e",
+        "box_pixels": [
+            437,
+            1001,
+            9,
+            10
+        ],
+        "font_size": 10,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "azeitonas.",
+        "box_pixels": [
+            454,
+            997,
+            87,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "CALABRESA",
+        "box_pixels": [
+            366,
+            1038,
+            162,
+            21
+        ],
+        "font_size": 21,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "COM",
+        "box_pixels": [
+            545,
+            1038,
+            63,
+            21
+        ],
+        "font_size": 21,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "QUEIJO",
+        "box_pixels": [
+            624,
+            1038,
+            107,
+            21
+        ],
+        "font_size": 21,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "R$",
+        "box_pixels": [
+            897,
+            1042,
+            35,
+            22
+        ],
+        "font_size": 22,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "48",
+        "box_pixels": [
+            944,
+            1043,
+            32,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "Molho,",
+        "box_pixels": [
+            366,
+            1071,
+            61,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "muçarela,",
+        "box_pixels": [
+            435,
+            1071,
+            90,
+            16
+        ],
+        "font_size": 16,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "calabresa,",
+        "box_pixels": [
+            533,
+            1071,
+            94,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "tomate,",
+        "box_pixels": [
+            636,
+            1071,
+            68,
+            15
+        ],
+        "font_size": 15,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "cebola",
+        "box_pixels": [
+            713,
+            1071,
+            61,
+            13
+        ],
+        "font_size": 13,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "e",
+        "box_pixels": [
+            782,
+            1074,
+            10,
+            10
+        ],
+        "font_size": 10,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "azeitonas.",
+        "box_pixels": [
+            366,
+            1095,
+            91,
+            13
+        ],
+        "font_size": 13,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "CARNE",
+        "box_pixels": [
+            366,
+            1137,
+            93,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "SECA",
+        "box_pixels": [
+            475,
+            1136,
+            69,
+            21
+        ],
+        "font_size": 21,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "R$",
+        "box_pixels": [
+            897,
+            1140,
+            35,
+            23
+        ],
+        "font_size": 23,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "58",
+        "box_pixels": [
+            945,
+            1141,
+            31,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "Molho,",
+        "box_pixels": [
+            366,
+            1168,
+            56,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "muçarela,",
+        "box_pixels": [
+            435,
+            1168,
+            90,
+            17
+        ],
+        "font_size": 17,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "carne",
+        "box_pixels": [
+            533,
+            1172,
+            51,
+            10
+        ],
+        "font_size": 10,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "seca,",
+        "box_pixels": [
+            592,
+            1172,
+            46,
+            10
+        ],
+        "font_size": 10,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "tomate,",
+        "box_pixels": [
+            646,
+            1169,
+            69,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "cebola",
+        "box_pixels": [
+            724,
+            1168,
+            61,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "e",
+        "box_pixels": [
+            793,
+            1172,
+            10,
+            10
+        ],
+        "font_size": 10,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "azeitonas",
+        "box_pixels": [
+            366,
+            1193,
+            87,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "CARNE",
+        "box_pixels": [
+            368,
+            1234,
+            92,
+            21
+        ],
+        "font_size": 21,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "SECA",
+        "box_pixels": [
+            476,
+            1234,
+            69,
+            21
+        ],
+        "font_size": 21,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "COM",
+        "box_pixels": [
+            562,
+            1234,
+            62,
+            21
+        ],
+        "font_size": 21,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "CATUPIRY",
+        "box_pixels": [
+            641,
+            1234,
+            139,
+            21
+        ],
+        "font_size": 21,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "..........",
+        "box_pixels": [
+            789,
+            1248,
+            95,
+            4
+        ],
+        "font_size": 4,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "R$",
+        "box_pixels": [
+            898,
+            1238,
+            35,
+            22
+        ],
+        "font_size": 22,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "62",
+        "box_pixels": [
+            946,
+            1239,
+            31,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "Molho,",
+        "box_pixels": [
+            368,
+            1267,
+            60,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "muçarela,",
+        "box_pixels": [
+            437,
+            1267,
+            89,
+            16
+        ],
+        "font_size": 16,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "carne",
+        "box_pixels": [
+            535,
+            1270,
+            50,
+            10
+        ],
+        "font_size": 10,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "seca,",
+        "box_pixels": [
+            593,
+            1270,
+            46,
+            10
+        ],
+        "font_size": 10,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "catupiry,",
+        "box_pixels": [
+            648,
+            1267,
+            78,
+            17
+        ],
+        "font_size": 17,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "tomate,",
+        "box_pixels": [
+            735,
+            1267,
+            69,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "cebola",
+        "box_pixels": [
+            367,
+            1291,
+            61,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "e",
+        "box_pixels": [
+            437,
+            1295,
+            9,
+            10
+        ],
+        "font_size": 10,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "azeitonas.",
+        "box_pixels": [
+            454,
+            1291,
+            87,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "CATUPIRY",
+        "box_pixels": [
+            369,
+            1333,
+            139,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "R$",
+        "box_pixels": [
+            900,
+            1336,
+            35,
+            23
+        ],
+        "font_size": 23,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "48",
+        "box_pixels": [
+            948,
+            1337,
+            31,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "Molho.",
+        "box_pixels": [
+            369,
+            1365,
+            60,
+            15
+        ],
+        "font_size": 15,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "muçarela,",
+        "box_pixels": [
+            438,
+            1365,
+            90,
+            17
+        ],
+        "font_size": 17,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "catupiry",
+        "box_pixels": [
+            537,
+            1365,
+            74,
+            18
+        ],
+        "font_size": 18,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "e",
+        "box_pixels": [
+            619,
+            1369,
+            10,
+            10
+        ],
+        "font_size": 10,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "azeitonas.",
+        "box_pixels": [
+            636,
+            1365,
+            87,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "CHAMPIGNON",
+        "box_pixels": [
+            369,
+            1406,
+            193,
+            21
+        ],
+        "font_size": 21,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "R$",
+        "box_pixels": [
+            900,
+            1410,
+            34,
+            22
+        ],
+        "font_size": 22,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "62",
+        "box_pixels": [
+            948,
+            1411,
+            30,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "Molho,",
+        "box_pixels": [
+            369,
+            1439,
+            61,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "muçarela,",
+        "box_pixels": [
+            438,
+            1439,
+            90,
+            16
+        ],
+        "font_size": 16,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "catupiry",
+        "box_pixels": [
+            663,
+            1439,
+            75,
+            17
+        ],
+        "font_size": 17,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "e",
+        "box_pixels": [
+            745,
+            1442,
+            10,
+            10
+        ],
+        "font_size": 10,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "azeitonas.",
+        "box_pixels": [
+            763,
+            1439,
+            87,
+            13
+        ],
+        "font_size": 13,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "CREMOSA.",
+        "box_pixels": [
+            368,
+            1480,
+            134,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "R$",
+        "box_pixels": [
+            898,
+            1483,
+            35,
+            23
+        ],
+        "font_size": 23,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "62",
+        "box_pixels": [
+            946,
+            1485,
+            31,
+            19
+        ],
+        "font_size": 19,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "Molho,",
+        "box_pixels": [
+            368,
+            1512,
+            59,
+            15
+        ],
+        "font_size": 15,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "frango,",
+        "box_pixels": [
+            534,
+            1512,
+            64,
+            18
+        ],
+        "font_size": 18,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "creme",
+        "box_pixels": [
+            607,
+            1516,
+            57,
+            10
+        ],
+        "font_size": 10,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "de",
+        "box_pixels": [
+            672,
+            1512,
+            22,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "leite,",
+        "box_pixels": [
+            702,
+            1512,
+            44,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "milho",
+        "box_pixels": [
+            755,
+            1512,
+            49,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "e",
+        "box_pixels": [
+            812,
+            1516,
+            10,
+            10
+        ],
+        "font_size": 10,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "azeitonas",
+        "box_pixels": [
+            367,
+            1536,
+            87,
+            14
+        ],
+        "font_size": 14,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "MÉDIA",
+        "box_pixels": [
+            1031,
+            354,
+            67,
+            18
+        ],
+        "font_size": 18,
+        "font_name_suggestion": "Arial",
+        "color_rgb": "#0000",
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "R$",
+        "box_pixels": [
+            1019,
+            502,
+            35,
+            23
+        ],
+        "font_size": 23,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "38",
+        "box_pixels": [
+            1067,
+            503,
+            31,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "R$",
+        "box_pixels": [
+            1019,
+            576,
+            35,
+            22
+        ],
+        "font_size": 22,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "46",
+        "box_pixels": [
+            1066,
+            577,
+            32,
+            19
+        ],
+        "font_size": 19,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "R$",
+        "box_pixels": [
+            1019,
+            649,
+            35,
+            23
+        ],
+        "font_size": 23,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "38",
+        "box_pixels": [
+            1067,
+            650,
+            31,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "R$",
+        "box_pixels": [
+            1019,
+            723,
+            35,
+            22
+        ],
+        "font_size": 22,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "49",
+        "box_pixels": [
+            1066,
+            724,
+            31,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "R$",
+        "box_pixels": [
+            1020,
+            796,
+            35,
+            23
+        ],
+        "font_size": 23,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "42",
+        "box_pixels": [
+            1067,
+            797,
+            32,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "R$",
+        "box_pixels": [
+            1020,
+            870,
+            35,
+            23
+        ],
+        "font_size": 23,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "34",
+        "box_pixels": [
+            1068,
+            871,
+            31,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "R$",
+        "box_pixels": [
+            1020,
+            944,
+            35,
+            22
+        ],
+        "font_size": 22,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "46",
+        "box_pixels": [
+            1068,
+            945,
+            31,
+            19
+        ],
+        "font_size": 19,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "R$",
+        "box_pixels": [
+            1019,
+            1042,
+            35,
+            22
+        ],
+        "font_size": 22,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "38",
+        "box_pixels": [
+            1067,
+            1043,
+            31,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "R$",
+        "box_pixels": [
+            1019,
+            1140,
+            35,
+            23
+        ],
+        "font_size": 23,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "46",
+        "box_pixels": [
+            1066,
+            1141,
+            32,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "R$",
+        "box_pixels": [
+            1020,
+            1238,
+            35,
+            23
+        ],
+        "font_size": 23,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "49",
+        "box_pixels": [
+            1068,
+            1239,
+            31,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "R$",
+        "box_pixels": [
+            1022,
+            1336,
+            35,
+            23
+        ],
+        "font_size": 23,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "38",
+        "box_pixels": [
+            1070,
+            1337,
+            31,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "R$",
+        "box_pixels": [
+            1022,
+            1410,
+            35,
+            22
+        ],
+        "font_size": 22,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "49",
+        "box_pixels": [
+            1069,
+            1411,
+            32,
+            20
+        ],
+        "font_size": 20,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "R$",
+        "box_pixels": [
+            1020,
+            1483,
+            35,
+            23
+        ],
+        "font_size": 23,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    },
+    {
+        "text": "49",
+        "box_pixels": [
+            1067,
+            1485,
+            32,
+            19
+        ],
+        "font_size": 19,
+        "font_name_suggestion": "Arial",
+        "color_rgb": [
+            0,
+            0,
+            0
+        ],
+        "font_file": "ARIAL.TTF"
+    }
+]

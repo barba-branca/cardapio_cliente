@@ -1,78 +1,100 @@
-# core/image_processor.py
+# core/image_processor.py (VERSÃO FINAL HÍBRIDA: IA + OPENCV + TESSERACT)
 
-import pytesseract
-import cv2  # Importamos o OpenCV
-import numpy as np
+import base64
 import json
-import uuid
+import ollama
+import asyncio
+import httpx
+import traceback
+import os
+import requests
+from PIL import Image, ImageDraw, ImageFont
+import io
+import cv2
+import numpy as np
+import pytesseract
 
-# --- CONFIGURAÇÃO DO TESSERACT (já está funcionando) ---
+# --- CONFIGURAÇÕES E CONSTANTES ---
+# ... (Mantenha as configurações de chave, diretórios, etc.) ...
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
-tessdata_dir_config = r'--tessdata-dir "C:\Program Files\Tesseract-OCR\tessdata"'
-# ---------------------------------------------------------
+GOOGLE_FONTS_API_KEY = "AIzaSyBPfj_t8GHPJSnB_vh-HpKzITMTOREV8W4"
+FONTS_DIR = "fonts"
+os.makedirs(FONTS_DIR, exist_ok=True)
+AVAILABLE_FONTS = [f for f in os.listdir(FONTS_DIR) if f.lower().endswith(('.ttf', '.otf'))] if os.path.exists(FONTS_DIR) else []
 
-def process_menu_for_template(image_path: str, job_id: str):
-    """
-    Processa a imagem de um cardápio para:
-    1. Criar um template sem os textos.
-    2. Salvar os metadados (posição, tamanho, cor) dos textos em um JSON.
-    """
-    # Usamos o OpenCV para ler a imagem, pois ele é melhor para manipulação
-    img = cv2.imread(image_path)
-    # Criamos uma cópia da imagem que será nosso template
-    template_img = img.copy()
+# --- FUNÇÃO DE RESOLUÇÃO DE FONTES (Mantenha a sua) ---
+def resolve_font(font_name: str) -> str:
+    # ... (Sua função resolve_font que já funciona) ...
+    return "ARIAL.TTF" # Placeholder
 
-    # Usamos image_to_data para pegar as caixas delimitadoras (bounding boxes)
-    data = pytesseract.image_to_data(img, lang='por', config=tessdata_dir_config, output_type=pytesseract.Output.DICT)
+# --- FUNÇÃO PRINCIPAL DE ANÁLISE HÍBRIDA ---
+async def get_text_properties_from_image(image_stream):
+    image_bytes = image_stream.read()
     
-    text_metadata = []
-    n_boxes = len(data['level'])
+    # Carrega a imagem uma vez para uso em várias funções
+    nparr = np.frombuffer(image_bytes, np.uint8)
+    img_cv = cv2.imdecode(nparr, cv2.IMREAD_COLOR)
+    img_pil = Image.open(io.BytesIO(image_bytes)).convert("RGB")
+    img_width, img_height = img_pil.size
 
-    for i in range(n_boxes):
-        # Filtramos por uma confiança mínima para evitar ruído
-        if int(data['conf'][i]) > 60:
-            (x, y, w, h) = (data['left'][i], data['top'][i], data['width'][i], data['height'][i])
-            
-            # --- Extração de Metadados ---
-            # Posição e Tamanho
-            box = [x, y, w, h]
-            
-            # Cor: Uma heurística simples - pegamos a cor média dos pixels na borda da caixa
-            # Isso geralmente funciona bem para texto sobre fundos sólidos
-            # Pegamos uma pequena fatia de pixels para evitar pegar muito do fundo
-            if y > 0 and x > 0: # Evita erros em caixas na borda da imagem
-                text_color_area = img[y:y+1, x:x+w]
-                # A cor em OpenCV é BGR, convertemos para RGB para ser mais padrão
-                avg_color_bgr = np.mean(text_color_area, axis=(0, 1))
-                avg_color_rgb = (int(avg_color_bgr[2]), int(avg_color_bgr[1]), int(avg_color_bgr[0]))
-            else:
-                avg_color_rgb = (0, 0, 0) # Cor padrão (preto)
-
-            text_info = {
-                "id": str(uuid.uuid4()), # ID único para cada bloco de texto
-                "original_text": data['text'][i],
-                "box": box,
-                "approx_font_size": h,  # A altura da caixa é um ótimo substituto para o tamanho da fonte
-                "approx_color_rgb": avg_color_rgb
-            }
-            text_metadata.append(text_info)
-
-            # --- Remoção do Texto para criar o Template ---
-            # Usamos "inpainting" do OpenCV, que preenche a área de forma inteligente
-            # É muito melhor que apenas desenhar uma caixa branca por cima.
-            # Criamos uma máscara preta com um retângulo branco onde está o texto
-            mask = np.zeros(img.shape[:2], dtype=np.uint8)
-            cv2.rectangle(mask, (x, y), (x + w, y + h), 255, -1)
-            # Aplicamos o inpainting
-            template_img = cv2.inpaint(template_img, mask, inpaintRadius=5, flags=cv2.INPAINT_TELEA)
-
-    # --- Salvar os Resultados ---
-    template_path = f"storage/templates/{job_id}_template.png"
-    metadata_path = f"storage/metadata/{job_id}_metadata.json"
+    # --- ETAPA 1: ANÁLISE DE ESTILO COM IA ---
+    print("Iniciando análise de ESTILO com IA (pode demorar)...")
+    style_prompt = "Analise o ESTILO desta imagem de cardápio. NÃO leia o texto. Apenas identifique as principais regiões (ex: 'título', 'lista_de_itens') e, para cada uma, descreva a 'font_name' e a 'color_rgb'. Retorne um objeto JSON com as regiões como chaves."
     
-    cv2.imwrite(template_path, template_img)
+    try:
+        client = ollama.AsyncClient(timeout=300.0)
+        response = await client.chat(
+            model='llava',
+            messages=[{'role': 'user', 'content': style_prompt, 'images': [base64.b64encode(image_bytes).decode('utf-8')]}],
+            format="json", options={"temperature": 0.0}
+        )
+        style_data = json.loads(response['message']['content'])
+        print(f"Estilos detectados pela IA: {style_data}")
+    except Exception as e:
+        print(f"AVISO: Análise de estilo com IA falhou: {e}. Usando estilos padrão.")
+        # Define estilos padrão se a IA falhar
+        style_data = {
+            'titulo': {'font_name': 'Arial Bold', 'color_rgb': [139, 0, 0]},
+            'lista_de_itens': {'font_name': 'Arial', 'color_rgb': [60, 60, 60]}
+        }
+
+    # --- ETAPA 2: DETECÇÃO E LEITURA DE TEXTO COM OPENCV E TESSERACT ---
+    print("Iniciando detecção e leitura de texto com Tesseract...")
+    # Usa o image_to_data do Tesseract, que é excelente para encontrar todos os blocos de texto
+    ocr_data = pytesseract.image_to_data(img_cv, lang='por', output_type=pytesseract.Output.DICT)
     
-    with open(metadata_path, 'w', encoding='utf-8') as f:
-        json.dump({"text_areas": text_metadata}, f, indent=4, ensure_ascii=False)
+    final_data = []
+    num_boxes = len(ocr_data['level'])
+    for i in range(num_boxes):
+        text = ocr_data['text'][i].strip()
+        confidence = int(ocr_data['conf'][i])
         
-    return template_path, metadata_path
+        # Filtra blocos vazios ou com baixa confiança
+        if text and confidence > 50:
+            # Pega as coordenadas em pixels diretamente do Tesseract
+            x, y, w, h = ocr_data['left'][i], ocr_data['top'][i], ocr_data['width'][i], ocr_data['height'][i]
+            
+            # --- ETAPA 3: FUSÃO INTELIGENTE ---
+            # Determina o estilo a ser aplicado com base na posição do texto
+            # (Exemplo simples: textos no topo são títulos, o resto é item de lista)
+            if y < img_height * 0.3: # Se estiver nos 30% superiores da imagem
+                applied_style = style_data.get('titulo', style_data.get('lista_de_itens'))
+            else:
+                applied_style = style_data.get('lista_de_itens')
+            
+            font_name_suggestion = applied_style.get('font_name', 'Arial')
+            color_rgb = applied_style.get('color_rgb', [0, 0, 0])
+
+            # Cria o bloco de JSON final
+            block = {
+                "text": text,
+                "box_pixels": [x, y, w, h],
+                "font_size": h, # Usa a altura detectada pelo Tesseract como tamanho
+                "font_name_suggestion": font_name_suggestion,
+                "color_rgb": color_rgb,
+                "font_file": resolve_font(font_name_suggestion) # Resolve a fonte
+            }
+            final_data.append(block)
+
+    print(f"Processamento Híbrido concluído. {len(final_data)} blocos de texto encontrados.")
+    return final_data
