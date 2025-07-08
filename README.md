@@ -67,7 +67,7 @@ Siga estes passos para configurar o ambiente de desenvolvimento local.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <url-do-seu-repositorio>
+    git clone (https://github.com/barba-branca/cardapio_cliente.git)
     cd cardapio_backend
     ```
 
